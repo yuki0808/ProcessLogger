@@ -1,0 +1,6 @@
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\ProcessLogger\ProcessLogger\bin\Release\ProcessLogger.exe
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\ProcessLogger\ProcessLogger\obj\Release\ProcessLogger.Form1.resources
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\ProcessLogger\ProcessLogger\obj\Release\ProcessLogger.Properties.Resources.resources
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\ProcessLogger\ProcessLogger\obj\Release\ProcessLogger.csproj.GenerateResource.Cache
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\ProcessLogger\ProcessLogger\obj\Release\ProcessLogger.exe
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\ProcessLogger\ProcessLogger\bin\Release\ProcessLogger.exe.config
